@@ -1,4 +1,4 @@
-# Sample Data from Freddie Mac's 
+# Sample Data from Freddie Mac's Single Family Loan-Level Dataset.
 This is a repository for sample of Freddie Mac's Single Family Loan-Level Dataset. This is a realistic data for credit risk analytics.
 
 # How to construct the sample dataset
